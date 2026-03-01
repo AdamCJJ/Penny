@@ -1,0 +1,16 @@
+{
+  "name": "pennys-rainbow-fairy-closet",
+  "version": "1.0.0",
+  "description": "Penny's Rainbow Fairy Closet - A dress-up game for kids",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
